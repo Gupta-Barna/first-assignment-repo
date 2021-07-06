@@ -1,0 +1,85 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.tomato-color{
+    color:tomato ;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 80px;
+    
+}
+   
+}
+.half-width{
+    width:50%
+    
+}
+.half-width img{
+    width:80%;
+    padding-left: 8%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( yellow,green );
+    font-weight: 700;
+    padding: 10px 40px;
+}
+.about-me{
+    background-image: url(food-network-main/Frame\ 59.jpg);
+    background-position: right;
+}
+  
+.align{
+    text-align: center;
+    color: gray;
+}
+
+.experience-item img{
+   width: 30%;
+   box-shadow: 20px 20px 20px gray;
+   border-radius: 20px;
+
+
+}
+.port-item{
+    display: flex;
+
+}
+.cost{
+    border: 3px solid;
+    padding: 50px;
+    margin:30px 30px;
+    border-radius: 30px;
+    border-color: blueviolet;
+
+    
+}
+.spit{
+    text-align: center;
+    border:solid;
+    background-color: black;
+}
+.white-color{
+    color:gray;
+}
+.violet{
+    color: lightseagreen;
+    border: solid;
+  
+}
+.fit{
+    background-color:#d1505081;
+}
+.pink{
+    color:seagreen;
+}
+.link-button-b{
+    background-image: linear-gradient(salmon,red);
+    text-decoration: none;
+    font-weight: 700;
+    padding: 10px 20px;
+}
